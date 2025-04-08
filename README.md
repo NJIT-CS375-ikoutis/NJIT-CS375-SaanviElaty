@@ -2,6 +2,7 @@
 This data set contains information about the global inflation rate and contains two data files which are global inflation countries and global inflation organizations.  The first file contains  13,760 records and the second file contains 3,264 records.  Some of the key features of the data set are country identifiers(country name and the country code), geographic/economic classifiers(region, sub region, and income group), economic metrics(indicator name and indicator code), year, and inflation rate.
 
 Link to Data Set:https://www.kaggle.com/datasets/fredericksalazar/global-inflation-rate-1960-present?resource=downloadLinks
+
 Link to collab: https://colab.research.google.com/drive/1mx1JLLWaACQCzoD2e09UUnD_rHHAuajt#scrollTo=YEXMkjkzixIZ
 
 Classification Problem: Predict the income group of the country based on inflation trends and economic indicators 
