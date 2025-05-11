@@ -3,8 +3,6 @@ This data set contains information about the global inflation rate and contains 
 
 Link to Data Set:https://www.kaggle.com/datasets/fredericksalazar/global-inflation-rate-1960-present?resource=downloadLinks
 
-Link to collab: https://colab.research.google.com/drive/1mx1JLLWaACQCzoD2e09UUnD_rHHAuajt#scrollTo=YEXMkjkzixIZ
-
 Classification Problem: Predict the income group of the country based on inflation trends and economic indicators 
 Input features: inflation rate, year, region, sub region 
 Target variable: income group 
